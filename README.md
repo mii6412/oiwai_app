@@ -23,7 +23,7 @@
 日本においては自らが発信して「これが欲しい！」と言える文化ではありませんが、「Oiwai」のようなプラットフォームがあることで、意識や文化に変化を与え、win-winな贈り物ができると考え、このアプリを作りました。
 
 ## DB設計
-![OIWAI](https://user-images.githubusercontent.com/72489337/100852405-d1ed6900-34c9-11eb-9eba-2d9754f116ba.png)
+![OIWAI](https://user-images.githubusercontent.com/72489337/100872591-5f8a8200-34e5-11eb-9be4-669160ab1dc3.png)
 
 ## アプリケーションの機能
 ・欲しい物（名前／写真／購入ページ）を投稿できる機能<br>
